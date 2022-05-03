@@ -3,7 +3,10 @@
 ## NÃO PERCA SEU TEMPO...VENHA!!!
 ### Programar nada mais é que organizar as coisas, deixando-as em ordem e de uma maneira que todos possam entender.
 *Osny*
+
 https://scratch.mit.edu/
+
+[![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/)
 
 <!--
 **Osny-fascio/Osny-fascio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
